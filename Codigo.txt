@@ -1,0 +1,15 @@
+//vamos a utilizar font awesome cdn y buscamos en google cdnjs.com
+ y buscamos la pestaña de css para adcionarla a nuesta pagina web
+
+//otra pagina que vamos a utilizar es heropatterns.com que nos permite utilizar varios diseños 
+en modo tapiz para nuestra pagina web
+
+
+
+//para el fondo del texto vamos a utilizar font  oswald de google
+
+// https://www.pexels.com/es-es/buscar/verduras/ en donde encontramos imagenes de buena calidad
+
+//https://scrollrevealjs.org/pagina web que nos muetra el contenido de la pagina con forme vamos scrolleando
+o navegando por el sitio
+
